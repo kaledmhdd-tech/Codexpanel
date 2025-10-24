@@ -216,6 +216,8 @@ HTML_TEMPLATE = '''
             box-sizing: border-box;
             font-family: 'Tajawal', sans-serif;
         }
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9346359398684204"
+     crossorigin="anonymous"></script>
         body {
             background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
             color: var(--light);
